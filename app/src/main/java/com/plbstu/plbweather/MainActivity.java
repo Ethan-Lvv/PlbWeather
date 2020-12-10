@@ -1,4 +1,4 @@
-package plbweather.plbstu.com.plbweather;
+package com.plbstu.plbweather;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

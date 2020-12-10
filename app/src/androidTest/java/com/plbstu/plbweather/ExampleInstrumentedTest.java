@@ -1,4 +1,4 @@
-package plbweather.plbstu.com.plbweather;
+package com.plbstu.plbweather;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package plbweather.plbstu.com.plbweather;
+package com.plbstu.plbweather;
 
 import org.junit.Test;
 
